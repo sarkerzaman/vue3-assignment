@@ -9,6 +9,7 @@
     <top-nav></top-nav>
     <home></home>
     <app-footer></app-footer>
+    <v-for-array-component></v-for-array-component>
   </div>
 </template>
 

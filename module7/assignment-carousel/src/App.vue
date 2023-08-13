@@ -1,4 +1,5 @@
 <template>
+  <h2>Assignment Vue3 Image Carousel</h2>
   <div class="carousel">
     <button class="btn btn-primary mx-2" @click="previousSlide">Previous</button>
     <img :src="currentImage" alt="Carousel Image" />
